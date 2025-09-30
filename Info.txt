@@ -1,0 +1,58 @@
+
+HERO SECTION: 
+KUNJAN PANDEY 
+Gangtok, East Sikkim,
+
+Email: kunjanpandeykp@gmail.com
+Mobile: +91 7477455014
+GitHub: github.com/kunjanpandey08
+LinkedIn: linkedin.com/in/kunjanpandey08
+
+SKILLS SECTION:
+Programming Languages: Python, C, C++, JAVA, JavaScript
+Web Development: HTML, CSS, JS, Tailwind CSS, Node.js
+Databases: mySQL, MongoDB
+Libraries/Frameworks: Python (Pandas, NumPy...), Node.js (Express, Mongoose, EJS...)
+Other Tools: Git, GitHub, VS Code, Kaggle, Jupyter Notebook, JetBrains IDE, Postman, DevOps
+Soft Skills: Report Building, Leadership, Team Management, Mentoring
+
+
+EXPERIENCE SECTION:
+FREELANCE DESIGNER, Sikkim 2019 - 2024
+• Graphic Designer
+• Designing Banners, Logos, Mock-ups, posters, Video Editing etc
+MACHINE LEARNING TRAINEE, Jaipur June - 2024
+• International Summer School Manipal University Jaipur
+• Learned and Applied various AI-ML concepts and models.
+SOFTWARE DEVELOPMENT INTERN, Government of Sikkim 2025
+• Full Stack Web Development
+• Developed a Property Booking & Management system for Tribal Research Institute, Government of Sikkim
+• Tech Stack: MERN
+
+
+EDUCATION SECTION:
+Sikkim Manipal Institute of Technology, Majitar, East Sikkim 2022 - 2026
+B.Tech. CSE
+CGPA: 7.0
+Manjusri Public School, Tarku, South Sikkim 2014 - 2022
+Science 12th Grade (CBSE)
+Percentage: 76%
+
+
+PROJECTS SECTION:
+Second Hand Car Price Prediction System:
+• Built a website to predict second hand car price using machine learning.
+• Used multilinear regression for the prediction model along with a Node.js application using server side
+rendering. Deployed through render.com
+• Project Link - https://car-price-prediction-j26c.onrender.com
+CGPA Tracker:
+• Built a full stack CRUD application that authenticates, Stores and Calculates Semester GPA and CGPA
+Dynamically for users.
+• Built using Node.js, MongoDB, EJS and Deployed at render.com
+• Project Link - https://gpa-dldh.onrender.com
+
+
+CERTIFICATE SECTION:
+1. International Summer School Manipal University of Jaipur: Machine Learning using Python (June 2024)
+2. Technology & Transformation Launchpad Program: PwC India (July 2025)
+3. Foundation of Cybersecurity (Coursera - Google)
